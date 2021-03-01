@@ -1,1 +1,1 @@
-# InvoiceGenerator-Server
+# PinGenerator-Server
